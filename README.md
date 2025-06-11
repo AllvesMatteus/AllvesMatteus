@@ -1,5 +1,5 @@
 <img
-  src="computer-illustration.png"
+  src="https://i.imgur.com/W5DQZzj.png"
   alt="computer illustration"
   min-width="400px"
   max-width="400px"
