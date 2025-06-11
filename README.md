@@ -1,5 +1,5 @@
 <img
-  src="https://i.imgur.com/W5DQZzj.png"
+  src="img/computer-illustration.gif"
   alt="computer illustration"
   min-width="400px"
   max-width="400px"
