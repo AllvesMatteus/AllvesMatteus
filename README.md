@@ -1,5 +1,5 @@
 <img
-  src="computer-illustration.gif"
+  src="computer-illustration.png"
   alt="computer illustration"
   min-width="400px"
   max-width="400px"
