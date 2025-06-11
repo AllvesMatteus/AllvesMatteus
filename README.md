@@ -1,9 +1,9 @@
 <img
   src="computer-illustration.gif"
   alt="computer illustration"
-  min-width="300px"
-  max-width="300px"
-  width="300px"
+  min-width="400px"
+  max-width="400px"
+  width="400px"
   align="right"
 />
 
